@@ -1,8 +1,9 @@
 {
-  "name": "pxtorem",
-  "displayName": "pxtorem",
-  "description": "pxtorem",
-  "version": "0.0.1",
+  "name": "pxtoremjack",
+  "displayName": "pxtoremjack",
+  "description": "pxtoremjack",
+  "publisher": "JackLin",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.63.0"
   },
